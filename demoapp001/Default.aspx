@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            Benvenuto nella prima versione di questa fantastica app
         </div>
     </form>
 </body>
